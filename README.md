@@ -1,1 +1,2 @@
 # ToDo App - Challenge
+Aplicación web de gestión de tareas desarrollada con React y Node.js que permite crear, editar, eliminar, filtrar y buscar tareas de manera sencilla y moderna; incluye un formulario para agregar o actualizar tareas, una lista que muestra tareas completadas y pendientes, y un sistema de almacenamiento temporal en memoria con manejo básico de errores; la app se puede ejecutar localmente siguiendo las instrucciones (npm install y npm start), y se incluyen screenshots para mostrar la interfaz y el funcionamiento de la aplicación.
